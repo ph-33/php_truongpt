@@ -14,3 +14,5 @@ vendor
 composer.phar
 components/*/
 composer.lock
+
+bai_3.php
